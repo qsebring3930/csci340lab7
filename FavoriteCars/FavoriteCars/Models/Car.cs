@@ -7,7 +7,7 @@ namespace FavoriteCars.Models
     public class Car
     {
         public int ID { get; set; }
-
+        
         public int Year { get; set; }
         [Required]
         [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
