@@ -7483,7 +7483,7 @@
       "outputPath": "/Users/qsebring/Documents/csci340lab7/FavoriteCars/FavoriteCars/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/qsebring/.config/NuGet/NuGet.Config"
+        "/Users/qsebring/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
