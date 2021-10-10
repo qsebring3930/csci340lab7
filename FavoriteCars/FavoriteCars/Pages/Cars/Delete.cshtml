@@ -1,9 +1,7 @@
-@page
+@page "{id:int?}"
 @model FavoriteCars.Pages.Cars.DeleteModel
 
-@{
-    ViewData["Title"] = "Delete";
-}
+@{ ViewData["Title"] = "Delete"; }
 
 <h1>Delete</h1>
 
@@ -37,7 +35,7 @@
             @Html.DisplayFor(model => model.Car.Trim)
         </dd>
     </dl>
-    
+
     <form method="post">
         <input type="hidden" asp-for="Car.ID" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
