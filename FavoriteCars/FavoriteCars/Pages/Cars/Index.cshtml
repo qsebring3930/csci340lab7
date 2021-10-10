@@ -11,6 +11,9 @@
 
 <form>
     <p>
+        <select asp-for="CarMake" asp-items="Model.Makes">
+            <option value="">All</option>
+        </select>
         Model: <input type="text" asp-for="SearchString" />
         <input type="submit" value="Filter" />
     </p>

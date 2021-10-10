@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{F32DF7F4-B4BB-43C2-B47C-DEC5372D5F1E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FavoriteCars/Pages/Cars/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FavoriteCars/Models/Car.cs">
     <Files>
-      <File FileName="FavoriteCars/Pages/Cars/Index.cshtml" Line="1" Column="1" />
-      <File FileName="FavoriteCars/Pages/Cars/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="FavoriteCars/Models/Car.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FavoriteCars" expanded="True">
             <Node name="FavoriteCars" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Car.cs" selected="True" />
+              </Node>
               <Node name="Pages" expanded="True">
-                <Node name="Cars" expanded="True">
-                  <Node name="Index.cshtml" expanded="True">
-                    <Node name="Index.cshtml.cs" selected="True" />
-                  </Node>
-                </Node>
+                <Node name="Cars" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
             </Node>
